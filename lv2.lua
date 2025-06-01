@@ -1,1 +1,1 @@
-print("🟢 OBFUSCATE-v1 [ 2 ] ")
+print("🟢 OBFUSCATE-v1  [ 2 ] ")
