@@ -1,1 +1,1 @@
-print("🟢 Chaotic Good [ 3 ] ")
+print("🟢 Chaotic Good  [ 3 ] ")
