@@ -1,1 +1,1 @@
-print("🟢 Chaotic Evil [ 4 ] ")
+print("🟢 Chaotic Evil  [ 4 ] ")
