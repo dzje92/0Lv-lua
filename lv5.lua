@@ -1,0 +1,1 @@
+print("🟢 Dystropic Malevolence [ 5 ] ")
